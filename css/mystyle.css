@@ -1,0 +1,11 @@
+.crd{
+    border: solid 1px ghostwhite;
+    border-radius: 20px;
+    padding: 16px;
+    background-color: ghostwhite;
+}
+
+img{
+    width: 88px;
+    height: 88px;
+}
